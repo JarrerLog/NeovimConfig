@@ -1,6 +1,6 @@
 
 Neovim Config Created By JarrerLog
 
-Pls Use <https://github.com/junegunn/vim-plug> "Vim Plug".
+Pls Use <https://github.com/junegunn/vim-plug>.
 To install This Neovim Config File
 
