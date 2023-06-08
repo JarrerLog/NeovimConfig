@@ -1,3 +1,13 @@
+
+
+"/ /___ ______________  _____/ /   ____  ____ _
+" __  / / __ `/ ___/ ___/ _ \/ ___/ /   / __ \/ __ `/
+"/ /_/ / /_/ / /  / /  /  __/ /  / /___/ /_/ / /_/ /
+"\____/\__,_/_/  /_/   \___/_/  /_____/\____/\__, /
+"                                           /____/
+"
+"AnyError Contact To https://github.com/jarrerlog/vimconfig
+" Or nguyenvanluong020165@gmail.com
 set expandtab
 set smarttab
 set smartindent
@@ -16,7 +26,6 @@ set cindent
 set hidden
 set updatetime=300
 set shortmess+=c
-
 
 call plug#begin()
 
