@@ -1,5 +1,5 @@
 
-#Neovim Config Created By JarrerLog
+# Neovim Config Created By JarrerLog
 
 Pls Use 
 -<https://github.com/junegunn/vim-plug>.
